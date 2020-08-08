@@ -16,11 +16,13 @@
 }
 
 body {
+
   font-family: 'Iosevka', monospace;
   font-size: 20px;
-  background-color: #0F0F12;
   background-image: url("img/");
-  background-repeat: repeat;
+  background-image:url('Rain.gif');
+  background-size: cover;
+  background-color: #0F0F12;
   width: 670px;
   height: 320px;
   position: absolute;
